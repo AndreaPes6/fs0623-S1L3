@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;600&display=swap');
+body {
+    margin-left: 140px;
+    margin-right: 140px;
+    font-family: 'Lora', serif;
+    font-weight: 540;
+}
+header, h1, #figcaption, img {
+    text-align: center;
+}
+h1 {
+    text-transform: capitalize;
+}
+#logo {
+    width: 250px; 
+    height: 70px; 
+}
+#figcaption {
+    color: #9a9a9a;
+}
+#titoloheader {
+    color: #107777;
+    background-color: #fdfbf1;
+    
+}
+.p-img {
+    margin: 15px;
+}
+#feat {
+    color: #bc5628;
+}
+#fresh {
+    color: #147979;
+    text-decoration: underline;
+}
+#simply {
+    color: #147979;
+    text-decoration: underline;
+}
